@@ -5,7 +5,7 @@ A demo checkers board game application of the echoAR Unity + AR foundation.
 Follow the instructions on our [doumention page](https://docs.echoar.xyz/unity/adding-ar-capabilities) to [set your API key](https://docs.echoar.xyz/unity/adding-ar-capabilities#3-set-you-api-key).
 
 ## Run
-* [Upload](https://docs.echoar.xyz/quickstart/add-a-3d-model) the board game models from the Models folder to your project.
+* [Upload](https://docs.echoar.xyz/quickstart/add-a-3d-model) the board game models from the [Models folder](https://github.com/echoARxyz/Unity-echoAR-Board-Game-Demo/tree/master/Models) to your project.
 * [Build and run the AR application](https://docs.echoar.xyz/unity/adding-ar-capabilities#4-build-and-run-the-ar-application).
 
 ## Play
