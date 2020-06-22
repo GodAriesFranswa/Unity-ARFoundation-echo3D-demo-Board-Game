@@ -1,5 +1,5 @@
-# Unity-ARFoundation Checkers Board Game Demo
-A demo checkers board game application of the echoAR Unity + AR foundation. 
+# Unity-ARFoundation-Checkers-Board-Game-Demo
+A demo checkers board game application of the echoAR Unity + AR Foundation. 
 
 ## Setup
 Follow the instructions on our [doumention page](https://docs.echoar.xyz/unity/adding-ar-capabilities) to [set your API key](https://docs.echoar.xyz/unity/adding-ar-capabilities#3-set-you-api-key).
