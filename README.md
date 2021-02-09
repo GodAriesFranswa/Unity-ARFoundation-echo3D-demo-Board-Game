@@ -11,7 +11,7 @@ Don't have an API key? Make sure to register for FREE at [echoAR](https://consol
 * Overwrite the existing `Assets/echoAR/echoAR.cs` script with the new [`echoAR.cs`](./Scripts/echoAR.cs) file.
 * Overwrite the existing `Assets/echoAR/CustomBehaviour.cs` script with the new [`CustomBehaviour.cs`](./Scripts/CustomBehaviour.cs) file.
 * Overwrite the existing `Assets/AR Foundation/Scripts/PlaceOnPlane.cs` script with the new [`PlaceOnPlane.cs`](./Scripts/PlaceOnPlane.cs) file.
-* Copy the entire [`Resources`](./Resources/) folder to `Assets/`.
+* Copy the entire [`Resources`](./Resources/) folder to `Assets/echoAR`.
 
 ## Run
 * [Build and run the AR application](https://docs.echoar.xyz/unity/adding-ar-capabilities#4-build-and-run-the-ar-application).
