@@ -8,10 +8,10 @@ Don't have an API key? Make sure to register for FREE at [echoAR](https://consol
 * Clone the [Unity+ARFoundation with echoAR](https://github.com/echoARxyz/Unity-ARFoundation-echoAR-example) example code.
 * Follow the instructions on our [doumention page](https://docs.echoar.xyz/unity/adding-ar-capabilities) to [set your API key](https://docs.echoar.xyz/unity/adding-ar-capabilities#3-set-you-api-key).
 * [Add the 3D assets](https://docs.echoar.xyz/quickstart/add-a-3d-model) and their medatada from the [Models](./Models) folder to the console.
-* Overwrite the existing _Assets/echoAR/echoAR.cs_ script with the new [_echoAR.cs_](./Scripts/echoAR.cs) file.
-* Overwrite the existing _Assets/echoAR/CustomBehaviour.cs_ script with the new [_CustomBehaviour.cs_](./Scripts/CustomBehaviour.cs) file.
-* Overwrite the existing _Assets/AR Foundation/Scripts/PlaceOnPlane.cs_ script with the new [_PlaceOnPlane.cs_](./Scripts/PlaceOnPlane.cs) file.
-* Copy the entire [_Resources_](./Resources/) folder to _Assets/_.
+* Overwrite the existing `Assets/echoAR/echoAR.cs` script with the new [`echoAR.cs`](./Scripts/echoAR.cs) file.
+* Overwrite the existing `Assets/echoAR/CustomBehaviour.cs` script with the new [`CustomBehaviour.cs`](./Scripts/CustomBehaviour.cs) file.
+* Overwrite the existing `Assets/AR Foundation/Scripts/PlaceOnPlane.cs` script with the new [`PlaceOnPlane.cs`](./Scripts/PlaceOnPlane.cs) file.
+* Copy the entire [`Resources`](./Resources/) folder to `Assets/`.
 
 ## Run
 * [Build and run the AR application](https://docs.echoar.xyz/unity/adding-ar-capabilities#4-build-and-run-the-ar-application).
