@@ -6,7 +6,7 @@ Don't have an API key? Make sure to register for FREE at [echoAR](https://consol
 
 ## Setup
 * Clone the [Unity+ARFoundation with echoAR](https://github.com/echoARxyz/Unity-ARFoundation-echoAR-example) example code.
-* Follow the instructions on our [doumention page](https://docs.echoar.xyz/unity/adding-ar-capabilities) to [set your API key](https://docs.echoar.xyz/unity/adding-ar-capabilities#3-set-you-api-key).
+* Follow the instructions on our [documentation page](https://docs.echoar.xyz/unity/adding-ar-capabilities) to [set your API key](https://docs.echoar.xyz/unity/adding-ar-capabilities#3-set-you-api-key).
 * [Add the 3D assets](https://docs.echoar.xyz/quickstart/add-a-3d-model) and their medatada from the [Models](./Models) folder to the console.
 * Overwrite the existing `Assets/echoAR/echoAR.cs` script with the new [`echoAR.cs`](./Scripts/echoAR.cs) file.
 * Overwrite the existing `Assets/echoAR/CustomBehaviour.cs` script with the new [`CustomBehaviour.cs`](./Scripts/CustomBehaviour.cs) file.
