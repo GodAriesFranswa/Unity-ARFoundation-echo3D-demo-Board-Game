@@ -1,4 +1,4 @@
-# Unity-ARFoundation-Board-Game-Demo
+# Unity-ARFoundation-demo-Board-Game
 A demo checkers board game application with Unity, AR Foundation, and echoAR.
 
 ## Register
